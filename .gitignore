@@ -1,0 +1,6 @@
+/venv
+
+# pyinstaller stuff
+main.spec
+/dist
+/build
