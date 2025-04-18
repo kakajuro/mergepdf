@@ -33,4 +33,4 @@ for path in range(len(pdfs)):
 
 
 doc.save(res)
-print(f"{pdfs[-1]} created sucessfully.")
+print(f"{res} created sucessfully.")
